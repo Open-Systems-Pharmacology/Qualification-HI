@@ -1,15 +1,5 @@
-The PBPK model for COMPOUND was developed and verified with clinical pharmacokinetic data.
+The method to generate virtual populations with HI was qualified by testing its predictive performance when used in combination with PBPK models for healthy subjects in order to predict the PK of drugs in patients with HI from literature.
 
-The model was evaluated covering data from studies including in particular
+The method was evaluated using ten compounds and considers subjects with HI with a range of Child-Pugh score severities and modes of administration (all severities: caffeine PO, levetiracetam IV, omeprazole IV and PO; A and B only: sildenafil IV and PO; and B and C only: alfentanil IV, metoprolol IV and PO, midazolam IV and PO, nifedipine PO, and theophylline IV). IV and PO administrations were developed and evaluated only if their respective plasma concentration-time profiles in the HI population were published in the literature. The objective was to determine success of the population generation method by comparing the predicted pharmacokinetics in HI to clinical pharmacokinetic data from literature.
 
-* ...
-* ...
-
-The model quantifies ...
-
-The next sections show:
-
-1. the final model parameters for the building blocks: [Section 3.1](#final-input-parameters).
-2. the overall goodness of fit: [Section 3.2](#diagnostics-plots).
-3. simulated vs. observed concentration-time profiles for the clinical studies used for model building and for model verification: [Section 3.3](#ct-profiles).
-
+Each subsection that follows will contain an introduction to the test compound, a description of the healthy PBPK model development, and the subsequent translation to a population with HI.
