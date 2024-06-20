@@ -23,4 +23,4 @@ The healthy PBPK model development was based on single dose IV and oral PK studi
 | Specific intestinal permeability (transcellular) | 1.84E-3 cm/min |
 | **Oral absorption parameters**             |                             |
 | Formulation: Tablet T<sub>50%</sub>, T<sub>90%</sub>, T<sub>100%</sub> | 5 min, 10 min, 15 min |
-T<sub>50%</sub>, T<sub>90%</sub>, T<sub>100%</sub>: Time to disolve 50%, 90%, and 100% tablet strength, respectively (25).
+T<sub>50%</sub>, T<sub>90%</sub>, T<sub>100%</sub>: Time to dissolve 50%, 90%, and 100% tablet strength, respectively (25).

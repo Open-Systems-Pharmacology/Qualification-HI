@@ -2,7 +2,7 @@
 
 With the drug-specific parameters fixed, the healthy PBPK model was translated to a HI-PBPK model. Stages of HI used in the simulations were defined by the Child-Pugh score. Muirhead, Wilner (59) was used to evaluate the HI-PBPK model with oral administration (**Table 2**). 
 
-A population with Child-Pugh A and B was created according to the patient demographics of the population enrolled by Muirhead, Wilner (59). The study included patients with biopsy confirmd hepatic cirrhosis classified with Child-Pugh A and B.
+A population with Child-Pugh A and B was created according to the patient demographics of the population enrolled by Muirhead, Wilner (59). The study included patients with biopsy confirmed hepatic cirrhosis classified with Child-Pugh A and B.
 
 **Table 2. HI population demographics for sildenafil oral administration**
 

@@ -1,4 +1,4 @@
-Levetiracetam is an antiepileptic used for the treatment of patients with partial seizures, with or without secondary generalization (22, 23). The mechanism of antiseizure activity has not been fully elucidated, however, animal models have shown that levetiracetam binds to synaptic vescle proteins SV2A modulating neurotransporter release (24).
+Levetiracetam is an antiepileptic used for the treatment of patients with partial seizures, with or without secondary generalization (22, 23). The mechanism of antiseizure activity has not been fully elucidated, however, animal models have shown that levetiracetam binds to synaptic vesicle proteins SV2A modulating neurotransporter release (24).
 
 In this section, the general ADME (**Table 1**), the healthy PBPK model source, and translation to a population with HI for levetiracetam are described.
 

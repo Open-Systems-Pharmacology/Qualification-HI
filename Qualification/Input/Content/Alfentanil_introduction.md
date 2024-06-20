@@ -1,4 +1,4 @@
-Alfenatanil is a potent, synthetic opioid used to provide analgesia for various surgical procedures and in patients admitted within intensive care units. Alfentanil is typically administered intravenously and offers several advantages to alternative analgesics due to its potency at the opioid receptor and quick onset of effect (3).
+Alfentanil is a potent, synthetic opioid used to provide analgesia for various surgical procedures and in patients admitted within intensive care units. Alfentanil is typically administered intravenously and offers several advantages to alternative analgesics due to its potency at the opioid receptor and quick onset of effect (3).
 
 In this section, the general absorption, distribution, metabolism, and excretion (ADME) (**Table 1**), the healthy PBPK model source, and translation to a population with HI for alfentanil are described.
 

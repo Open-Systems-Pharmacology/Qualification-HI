@@ -1,6 +1,6 @@
 #### IV model
 
-With the drug-specific parameters fixed, the healthy PBPK model was translated to a HI-PBPK model. Stages of HI used in the simulations were defined by the Child-Pugh score. A population with Child-Pugh A, B, and C was created according to the patient demographics of the population enrolled by Regårdh, Jordö (35) (**Table 2**). The Child-Pugh scores were not defined in these studies and limited clinical variabls were reported to fully assess Child-Pugh status. Based on the clinical variables that were reportd, the study population likely consisted of patients classified as Child-Pugh A and B.
+With the drug-specific parameters fixed, the healthy PBPK model was translated to a HI-PBPK model. Stages of HI used in the simulations were defined by the Child-Pugh score. A population with Child-Pugh A, B, and C was created according to the patient demographics of the population enrolled by Regårdh, Jordö (35) (**Table 2**). The Child-Pugh scores were not defined in these studies and limited clinical variables were reported to fully assess Child-Pugh status. Based on the clinical variables that were reported, the study population likely consisted of patients classified as Child-Pugh A and B.
 
 **Table 2. HI population demographics for metoprolol IV administration**
 

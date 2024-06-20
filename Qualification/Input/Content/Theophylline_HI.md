@@ -8,7 +8,7 @@ With the drug-specific parameters fixed, the healthy PBPK model was translated t
 |--|--|--|--|--|--|
 | Froomes, Morgan (67) | 3 mg/kg IV infusion over 10 min | HI population: European females (40%) and males with Child-Pugh B and C | B: 3; C: 7 | 47.5 [range: 39-64] | Not reported |
 
-Froomes, Morgan (67) observed versus simulated clarance and half-life of theophylline after a 3 mg/kg IV infusion over 10 min in patients with Child-Pugh B and C are presented in **Table 3**. 
+Froomes, Morgan (67) observed versus simulated clearance and half-life of theophylline after a 3 mg/kg IV infusion over 10 min in patients with Child-Pugh B and C are presented in **Table 3**. 
 
 | **Study** | **Predicted clearance (mL/min)** | **Observed clearance (mL/min)** | **Fold-error** | **Predicted half-life (h)** | **Observed half-life (h)** | **Fold-error** |
 |--|--|--|--|--|--|--|

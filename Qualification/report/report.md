@@ -49,7 +49,7 @@ The liver is an important biotransformation site that serves key roles in the me
 | Ascites                | None     | Slight   | Moderate |
 | Encephalopathy         | None     | Minimal  | Advanced |
 
-Quantitative anatomical and physiological changes observed in hepatically impaired individuals have an impact on drug PK. These modifications include changes in blood flows (decreased portal and renal blood flow, and incrased hepatic arterial blood flow), cardiac output (increased), plasma binding protein concentrations (decreased), hematocrit (decreased), hepatic intrinsic clearance, and renal intrinsic clearance. With respect to hepatic intrinsic clearance, several enzymes (CYP3A4, CYP1A2, CYP2E1, etc.) are known to be affected in the disease process.
+Quantitative anatomical and physiological changes observed in hepatically impaired individuals have an impact on drug PK. These modifications include changes in blood flows (decreased portal and renal blood flow, and increased hepatic arterial blood flow), cardiac output (increased), plasma binding protein concentrations (decreased), hematocrit (decreased), hepatic intrinsic clearance, and renal intrinsic clearance. With respect to hepatic intrinsic clearance, several enzymes (CYP3A4, CYP1A2, CYP2E1, etc.) are known to be affected in the disease process.
 
 This report build upon the work by Edginton and Willmann (1) and Johnson, Boussery (2) to qualify the parameterization of a HI population implemented in PK-Sim. Section 2 describes the generation of HI populations. Section 3 evaluates the predicted effects of HI on the PK of 9 compounds: alfentanil, caffeine, levetiractam, metoprolol, midazolam, nifedipine, omeprazole, sildenafil, and theophylline. Evaluation for each compound is comprised of two steps: the initial model calibration against a healthy population, followed by an extension to populations of subjects with relevant severities of HI. 
 
@@ -85,11 +85,11 @@ HI population development followed the physiological scaling methods by Edginton
 | Hepatic intrinsic CL: CYP2C19                 | 0.32             | 0.26             | 0.12             |
 | Hepatic intrinsic CL: CYP2D6                  | 0.76             | 0.33             | 0.11             |
 | Glomerular filtration rate (GFR)              | 1                | 0.7              | 0.36             |
-*Values from Edginton and Willmann (1); however, this evaluation report uses the method presented in https://github.com/Open-Systems-Pharmacology/Forum/discussions/1341, and thus the "other organs" blood flow varies slightly across individuals.
+*Values from Edginton and Willmann (1); however, this evaluation report uses the method presented in [https://github.com/Open-Systems-Pharmacology/Forum/discussions/1341](https://github.com/Open-Systems-Pharmacology/Forum/discussions/1341), and thus the "other organs" blood flow varies slightly across individuals.
 
 ## Blood flow scaling
 
-Portal, hepatic arterial, and renal blood flows were scaled according to the disease factor reported for each Child-Pugh severity ([Table 2](#table_2)). All three blood flow processes were adjustd in PK-Sim by defining Individual > Anatomy & Physiology > Physiology > Flow Rates > Blood Flow Rates. Portal blood flow in the HI population was defined by the Portal Vein specific blood flow rate times the disease factor. Hepatic arterial blood flow was adjusted from applying the functional liver mass disease factor (Anatomy > Organ Volums > Liver) and adjusting the specific blood flow rate of the liver to attain the result of applying the hepatic arterial disease factor to liver blood flow rate. Renal blood flow was adjusted via application of the disease factor to kidney specific blood flow rate. The blood flow of other organs was adjusted based on the cardiac index, defined as cardiac output divided by body surface area, reported in the [Table 2](#table_2). The methods reported in https://github.com/Open-Systems-Pharmacology/Forum/discussions/1341 were applied.
+Portal, hepatic arterial, and renal blood flows were scaled according to the disease factor reported for each Child-Pugh severity ([Table 2](#table_2)). All three blood flow processes were adjusted in PK-Sim by defining Individual > Anatomy & Physiology > Physiology > Flow Rates > Blood Flow Rates. Portal blood flow in the HI population was defined by the Portal Vein specific blood flow rate times the disease factor. Hepatic arterial blood flow was adjusted from applying the functional liver mass disease factor (Anatomy > Organ Volumes > Liver) and adjusting the specific blood flow rate of the liver to attain the result of applying the hepatic arterial disease factor to liver blood flow rate. Renal blood flow was adjusted via application of the disease factor to kidney specific blood flow rate. The blood flow of other organs was adjusted based on the cardiac index, defined as cardiac output divided by body surface area, reported in the [Table 2](#table_2). The methods reported in [https://github.com/Open-Systems-Pharmacology/Forum/discussions/1341](https://github.com/Open-Systems-Pharmacology/Forum/discussions/1341) were applied.
 
 ## Plasma binding proteins and hematocrit scaling
 
@@ -125,7 +125,7 @@ Each subsection that follows will contain an introduction to the test compound, 
 ## 3.1 Alfentanil <a id="undefined-section-4"></a>
 
 
-Alfenatanil is a potent, synthetic opioid used to provide analgesia for various surgical procedures and in patients admitted within intensive care units. Alfentanil is typically administered intravenously and offers several advantages to alternative analgesics due to its potency at the opioid receptor and quick onset of effect (3).
+Alfentanil is a potent, synthetic opioid used to provide analgesia for various surgical procedures and in patients admitted within intensive care units. Alfentanil is typically administered intravenously and offers several advantages to alternative analgesics due to its potency at the opioid receptor and quick onset of effect (3).
 
 In this section, the general absorption, distribution, metabolism, and excretion (ADME) (**Table 1**), the healthy PBPK model source, and translation to a population with HI for alfentanil are described.
 
@@ -190,7 +190,7 @@ With the drug-specific parameters fixed, the healthy PBPK model was translated t
 | Ferrier, Marty (10) | 0.05 mg/kg IV bolus | HI population: European females (45%) and males with estimated Child-Pugh B and C | 11 | 56 [range: 39-69] | 60 [range: 43-73] |
 | Ferrier, Marty (10) | 0.05 mg/kg IV bolus | Control population: European | 10 | 45 [range: 25-66] | 59 [range: 34-84] |
 
-Simulated PK of alfentanil after a single IV bolus dose of 0.05 mg/kg in patients with Child-Pugh B and C are presented in **Figure 1** and **Figure 2**, repectively. Simulations of the average healthy control are included for comparison.
+Simulated PK of alfentanil after a single IV bolus dose of 0.05 mg/kg in patients with Child-Pugh B and C are presented in **Figure 1** and **Figure 2**, respectively. Simulations of the average healthy control are included for comparison.
 
 
 <a id="figure-3-1"></a>
@@ -225,7 +225,7 @@ Simulated PK of alfentanil after a single IV bolus dose of 0.05 mg/kg in patient
 ## 3.2 Levetiracetam <a id="undefined-section-7"></a>
 
 
-Levetiracetam is an antiepileptic used for the treatment of patients with partial seizures, with or without secondary generalization (22, 23). The mechanism of antiseizure activity has not been fully elucidated, however, animal models have shown that levetiracetam binds to synaptic vescle proteins SV2A modulating neurotransporter release (24).
+Levetiracetam is an antiepileptic used for the treatment of patients with partial seizures, with or without secondary generalization (22, 23). The mechanism of antiseizure activity has not been fully elucidated, however, animal models have shown that levetiracetam binds to synaptic vesicle proteins SV2A modulating neurotransporter release (24).
 
 In this section, the general ADME (**Table 1**), the healthy PBPK model source, and translation to a population with HI for levetiracetam are described.
 
@@ -275,7 +275,7 @@ The healthy PBPK model development was based on single dose IV and oral PK studi
 | Specific intestinal permeability (transcellular) | 1.84E-3 cm/min |
 | **Oral absorption parameters**             |                             |
 | Formulation: Tablet T<sub>50%</sub>, T<sub>90%</sub>, T<sub>100%</sub> | 5 min, 10 min, 15 min |
-T<sub>50%</sub>, T<sub>90%</sub>, T<sub>100%</sub>: Time to disolve 50%, 90%, and 100% tablet strength, respectively (25).
+T<sub>50%</sub>, T<sub>90%</sub>, T<sub>100%</sub>: Time to dissolve 50%, 90%, and 100% tablet strength, respectively (25).
 
 
 
@@ -397,7 +397,7 @@ The healthy PBPK model development was based on multiple IV PK studies described
 
 #### Oral model
 
-The healthy PBPK model development was based on multiple oral PK studies described in the OSP metoprolol report (30) and by Rüdesheim, Wojtyniak (31). Absorption parameters in the oral model included metoprolol tartate tablet described by a Weibull distribution with dissolution half-tim of 12.31 min and shape 0.72.
+The healthy PBPK model development was based on multiple oral PK studies described in the OSP metoprolol report (30) and by Rüdesheim, Wojtyniak (31). Absorption parameters in the oral model included metoprolol tartrate tablet described by a Weibull distribution with dissolution half-time of 12.31 min and shape 0.72.
 
 
 
@@ -408,7 +408,7 @@ The healthy PBPK model development was based on multiple oral PK studies describ
 
 #### IV model
 
-With the drug-specific parameters fixed, the healthy PBPK model was translated to a HI-PBPK model. Stages of HI used in the simulations were defined by the Child-Pugh score. A population with Child-Pugh A, B, and C was created according to the patient demographics of the population enrolled by Regårdh, Jordö (35) (**Table 2**). The Child-Pugh scores were not defined in these studies and limited clinical variabls were reported to fully assess Child-Pugh status. Based on the clinical variables that were reportd, the study population likely consisted of patients classified as Child-Pugh A and B.
+With the drug-specific parameters fixed, the healthy PBPK model was translated to a HI-PBPK model. Stages of HI used in the simulations were defined by the Child-Pugh score. A population with Child-Pugh A, B, and C was created according to the patient demographics of the population enrolled by Regårdh, Jordö (35) (**Table 2**). The Child-Pugh scores were not defined in these studies and limited clinical variables were reported to fully assess Child-Pugh status. Based on the clinical variables that were reported, the study population likely consisted of patients classified as Child-Pugh A and B.
 
 **Table 2. HI population demographics for metoprolol IV administration**
 
@@ -443,7 +443,7 @@ Simulated PK of metoprolol administered as 50 mg oral single dose in patients wi
 
 
 
-**Figure 3-6: Regardh 1981, Metoprolol tartate PO 50mg**
+**Figure 3-6: Regardh 1981, Metoprolol tartrate PO 50mg**
 
 
 <br>
@@ -755,7 +755,7 @@ The healthy PBPK model development was based on single dose IV and oral PK studi
 
 With the drug-specific parameters fixed, the healthy PBPK model was translated to a HI-PBPK model. Stages of HI used in the simulations were defined by the Child-Pugh score. Muirhead, Wilner (59) was used to evaluate the HI-PBPK model with oral administration (**Table 2**). 
 
-A population with Child-Pugh A and B was created according to the patient demographics of the population enrolled by Muirhead, Wilner (59). The study included patients with biopsy confirmd hepatic cirrhosis classified with Child-Pugh A and B.
+A population with Child-Pugh A and B was created according to the patient demographics of the population enrolled by Muirhead, Wilner (59). The study included patients with biopsy confirmed hepatic cirrhosis classified with Child-Pugh A and B.
 
 **Table 2. HI population demographics for sildenafil oral administration**
 
@@ -873,7 +873,7 @@ With the drug-specific parameters fixed, the healthy PBPK model was translated t
 |--|--|--|--|--|--|
 | Froomes, Morgan (67) | 3 mg/kg IV infusion over 10 min | HI population: European females (40%) and males with Child-Pugh B and C | B: 3; C: 7 | 47.5 [range: 39-64] | Not reported |
 
-Froomes, Morgan (67) observed versus simulated clarance and half-life of theophylline after a 3 mg/kg IV infusion over 10 min in patients with Child-Pugh B and C are presented in **Table 3**. 
+Froomes, Morgan (67) observed versus simulated clearance and half-life of theophylline after a 3 mg/kg IV infusion over 10 min in patients with Child-Pugh B and C are presented in **Table 3**. 
 
 | **Study** | **Predicted clearance (mL/min)** | **Observed clearance (mL/min)** | **Fold-error** | **Predicted half-life (h)** | **Observed half-life (h)** | **Fold-error** |
 |--|--|--|--|--|--|--|
@@ -913,7 +913,7 @@ Froomes, Morgan (67) observed versus simulated clarance and half-life of theophy
 ## 3.7 Lidocaine <a id="undefined-section-22"></a>
 
 
-Levetiracetam is an antiepileptic used for the treatment of patients with partial seizures, with or without secondary generalization (22, 23). The mechanism of antiseizure activity has not been fully elucidated, however, animal models have shown that levetiracetam binds to synaptic vescle proteins SV2A modulating neurotransporter release (24).
+Levetiracetam is an antiepileptic used for the treatment of patients with partial seizures, with or without secondary generalization (22, 23). The mechanism of antiseizure activity has not been fully elucidated, however, animal models have shown that levetiracetam binds to synaptic vesicle proteins SV2A modulating neurotransporter release (24).
 
 In this section, the general ADME (**Table 1**), the healthy PBPK model source, and translation to a population with HI for levetiracetam are described.
 
@@ -963,7 +963,7 @@ The healthy PBPK model development was based on single dose IV and oral PK studi
 | Specific intestinal permeability (transcellular) | 1.84E-3 cm/min |
 | **Oral absorption parameters**             |                             |
 | Formulation: Tablet T<sub>50%</sub>, T<sub>90%</sub>, T<sub>100%</sub> | 5 min, 10 min, 15 min |
-T<sub>50%</sub>, T<sub>90%</sub>, T<sub>100%</sub>: Time to disolve 50%, 90%, and 100% tablet strength, respectively (25).
+T<sub>50%</sub>, T<sub>90%</sub>, T<sub>100%</sub>: Time to dissolve 50%, 90%, and 100% tablet strength, respectively (25).
 
 
 
@@ -987,6 +987,32 @@ With the drug-specific parameters fixed, the healthy PBPK model was translated t
 Simulated PK of levetiracetam administered as a 1000 mg oral single dose in patients with Child-Pugh A, B, and C are presented in **Figure 1**, **Figure 2**, and **Figure 3**, respectively. These population HI-PBPK simulations were evaluated against observed plasma concentration-time profiles from Brockmöller, Thomsen (29).
 
 
+<a id="figure-3-19"></a>
+
+![](images/003_section_undefined-section-3/022_section_undefined-section-22/024_section_Lidocaine_HI/19_time_profile_plot_Lidocaine_Orlando2003_CPA_Population.png)
+
+
+
+**Figure 3-19: Orlando 2003, Lidocaine IV 1 mg/kg**
+
+
+<br>
+<br>
+
+
+<a id="figure-3-20"></a>
+
+![](images/003_section_undefined-section-3/022_section_undefined-section-22/024_section_Lidocaine_HI/20_time_profile_plot_Lidocaine_Orlando2003_CPC_Population.png)
+
+
+
+**Figure 3-20: Orlando 2003, Lidocaine IV 1 mg/kg**
+
+
+<br>
+<br>
+
+
 
 
 
@@ -996,14 +1022,14 @@ Simulated PK of levetiracetam administered as a 1000 mg oral single dose in pati
 1.	Edginton AN, Willmann S. Physiology-based simulations of a pathological condition: prediction of pharmacokinetics in patients with liver cirrhosis. Clin Pharmacokinet. 2008;47(11):743-52.
 2.	Johnson TN, Boussery K, Rowland-Yeo K, Tucker GT, Rostami-Hodjegan A. A semi-mechanistic model to predict the effects of liver cirrhosis on drug clearance. Clin Pharmacokinet. 2010;49(3):189-206.
 3.	Scholz J, Steinfath M, Schulz M. Clinical pharmacokinetics of alfentanil, fentanyl and sufentanil. An update. Clin Pharmacokinet. 1996;31(4):275-92.
-4.	Open Systems Pharmacology - PBPK Model Library - Alfentanil [Internet]. 2020 [cited October 24, 2022]. Available from: https://github.com/Open-Systems-Pharmacology/Alfentanil-Model.
+4.	Open Systems Pharmacology - PBPK Model Library - Alfentanil [Internet]. 2020 [cited October 24, 2022]. Available from: [https://github.com/Open-Systems-Pharmacology/Alfentanil-Model](https://github.com/Open-Systems-Pharmacology/Alfentanil-Model).
 5.	Hanke N, Frechen S, Moj D, Britz H, Eissing T, Wendl T, et al. PBPK Models for CYP3A4 and P-gp DDI Prediction: A Modeling Network of Rifampicin, Itraconazole, Clarithromycin, Midazolam, Alfentanil, and Digoxin. CPT Pharmacometrics Syst Pharmacol. 2018;7(10):647-59.
 6.	Bower S, Hull CJ. Comparative pharmacokinetics of fentanyl and alfentanil. Br J Anaesth. 1982;54(8):871-7.
 7.	Meuldermans W, Van Peer A, Hendrickx J, Woestenborghs R, Lauwers W, Heykants J, et al. Alfentanil pharmacokinetics and metabolism in humans. Anesthesiology. 1988;69(4):527-34.
 8.	Phimmasone S, Kharasch ED. A pilot evaluation of alfentanil-induced miosis as a noninvasive probe for hepatic cytochrome P450 3A4 (CYP3A4) activity in humans. Clin Pharmacol Ther. 2001;70(6):505-17.
 9.	Wandel C, Kim R, Wood M, Wood A. Interaction of morphine, fentanyl, sufentanil, alfentanil, and loperamide with the efflux drug transporter P-glycoprotein. Anesthesiology. 2002;96(4):913-20.
 10.	Ferrier C, Marty J, Bouffard Y, Haberer JP, Levron JC, Duvaldestin P. Alfentanil pharmacokinetics in patients with cirrhosis. Anesthesiology. 1985;62(4):480-4.
-11.	Open Systems Pharmacology - PBPK Model Library - Caffeine [Internet]. 2019 [cited October 24, 2022]. Available from: https://github.com/Open-Systems-Pharmacology/Example_Caffeine.
+11.	Open Systems Pharmacology - PBPK Model Library - Caffeine [Internet]. 2019 [cited October 24, 2022]. Available from: [https://github.com/Open-Systems-Pharmacology/Example_Caffeine](https://github.com/Open-Systems-Pharmacology/Example_Caffeine).
 12.	Britz H, Hanke N, Volz AK, Spigset O, Schwab M, Eissing T, et al. Physiologically-Based Pharmacokinetic Models for CYP1A2 Drug-Drug Interaction Prediction: A Modeling Network of Fluvoxamine, Theophylline, Caffeine, Rifampicin, and Midazolam. CPT Pharmacometrics Syst Pharmacol. 2019;8(5):296-307.
 13.	Newton R, Broughton LJ, Lind MJ, Morrison PJ, Rogers HJ, Bradbrook ID. Plasma and salivary pharmacokinetics of caffeine in man. Eur J Clin Pharmacol. 1981;21(1):45-52.
 14.	Busto U, Bendayan R, Sellers EM. Clinical pharmacokinetics of non-opiate abused drugs. Clin Pharmacokinet. 1989;16(1):1-26.
@@ -1022,13 +1048,13 @@ Simulated PK of levetiracetam administered as a 1000 mg oral single dose in pati
 27.	Patsalos PN. Pharmacokinetic profile of levetiracetam: toward ideal characteristics. Pharmacol Ther. 2000;85(2):77-85.
 28.	Coupez R, Nicolas JM, Browne TR. Levetiracetam, a new antiepileptic agent: lack of in vitro and in vivo pharmacokinetic interaction with valproic acid. Epilepsia. 2003;44(2):171-8.
 29.	Brockmöller J, Thomsen T, Wittstock M, Coupez R, Lochs H, Roots I. Pharmacokinetics of levetiracetam in patients with moderate to severe liver cirrhosis (Child-Pugh classes A, B, and C): characterization by dynamic liver function tests. Clin Pharmacol Ther. 2005;77(6):529-41.
-30.	Open Systems Pharmacology - PBPK Model Library - Metoprolol [Internet]. 2020 [cited October 24, 2022]. Available from: https://github.com/Open-Systems-Pharmacology/Metoprolol-Model.
+30.	Open Systems Pharmacology - PBPK Model Library - Metoprolol [Internet]. 2020 [cited October 24, 2022]. Available from: [https://github.com/Open-Systems-Pharmacology/Metoprolol-Model](https://github.com/Open-Systems-Pharmacology/Metoprolol-Model).
 31.	Rüdesheim S, Wojtyniak JG, Selzer D, Hanke N, Mahfoud F, Schwab M, et al. Physiologically Based Pharmacokinetic Modeling of Metoprolol Enantiomers and a-Hydroxymetoprolol to Describe CYP2D6 Drug-Gene Interactions. Pharmaceutics. 2020;12(12).
 32.	Kirchheiner J, Heesch C, Bauer S, Meisel C, Seringer A, Goldammer M, et al. Impact of the ultrarapid metabolizer genotype of cytochrome P450 2D6 on metoprolol pharmacokinetics and pharmacodynamics. Clin Pharmacol Ther. 2004;76(4):302-12.
 33.	Plosker GL, Clissold SP. Controlled release metoprolol formulations. A review of their pharmacodynamic and pharmacokinetic properties, and therapeutic use in hypertension and ischaemic heart disease. Drugs. 1992;43(3):382-414.
 34.	Jordö L, Attman PO, Aurell M, Johansson L, Johnsson G, Regårdh CG. Pharmacokinetic and pharmacodynamic properties of metoprolol in patients with impaired renal function. Clin Pharmacokinet. 1980;5(2):169-80.
 35.	Regårdh CG, Jordö L, Ervik M, Lundborg P, Olsson R, Rönn O. Pharmacokinetics of metoprolol in patients with hepatic cirrhosis. Clin Pharmacokinet. 1981;6(5):375-88.
-36.	Open Systems Pharmacology - PBPK Model Library - Midazolam [Internet]. 2022 [cited October 24, 2022]. Available from: https://github.com/Open-Systems-Pharmacology/Midazolam-Model.
+36.	Open Systems Pharmacology - PBPK Model Library - Midazolam [Internet]. 2022 [cited October 24, 2022]. Available from: [https://github.com/Open-Systems-Pharmacology/Midazolam-Model](https://github.com/Open-Systems-Pharmacology/Midazolam-Model).
 37.	Fresenius Kabi. Midazolam Package Insert. 2017.
 38.	Smith MT, Eadie MJ, Brophy TO. The pharmacokinetics of midazolam in man. Eur J Clin Pharmacol. 1981;19(4):271-8.
 39.	Hohmann N, Kocheise F, Carls A, Burhenne J, Haefeli WE, Mikus G. Midazolam microdose to determine systemic and pre-systemic metabolic CYP3A activity in humans. Br J Clin Pharmacol. 2015;79(2):278-85.
@@ -1040,7 +1066,7 @@ Simulated PK of levetiracetam administered as a 1000 mg oral single dose in pati
 45.	Dallmann A, Ince I, Coboeken K, Eissing T, Hempel G. A Physiologically Based Pharmacokinetic Model for Pregnant Women to Predict the Pharmacokinetics of Drugs Metabolized Via Several Enzymatic Pathways. Clin Pharmacokinet. 2018;57(6):749-68.
 46.	Taburet AM, Singlas E, Colin JN, Banzet O, Thibonnier M, Corvol P. Pharmacokinetic studies of nifedipine tablet. Correlation with antihypertensive effects. Hypertension. 1983;5(4 Pt 2):Ii29-33.
 47.	Ene MD, Roberts CJ. Pharmacokinetics of nifedipine after oral administration in chronic liver disease. J Clin Pharmacol. 1987;27(12):1001-4.
-48.	Open Systems Pharmacology Community. Open Systems Pharmacology - PBPK Model Library - Omeprazole. 2022.
+48.	Open Systems Pharmacology Community. Open Systems Pharmacology - PBPK Model Library - Omeprazole. 2022. Available from: [https://github.com/Open-Systems-Pharmacology/Omeprazole-Model](https://github.com/Open-Systems-Pharmacology/Omeprazole-Model)
 49.	Kanacher T, Lindauer A, Mezzalana E, Michon I, Veau C, Mantilla JDG, et al. A Physiologically-Based Pharmacokinetic (PBPK) Model Network for the Prediction of CYP1A2 and CYP2C19 Drug-Drug-Gene Interactions with Fluvoxamine, Omeprazole, S-mephenytoin, Moclobemide, Tizanidine, Mexiletine, Ethinylestradiol, and Caffeine. Pharmaceutics. 2020;12(12).
 50.	Cederberg C, Andersson T, Skånberg I. Omeprazole: Pharmacokinetics and Metabolism in Man. Scandinavian Journal of Gastroenterology. 1989;24(sup166):33-40.
 51.	Andersson T, Olsson R, Regårdh CG, Skånberg I. Pharmacokinetics of [14C]omeprazole in patients with liver cirrhosis. Clin Pharmacokinet. 1993;24(1):71-8.
@@ -1050,12 +1076,12 @@ Simulated PK of levetiracetam administered as a 1000 mg oral single dose in pati
 55.	Tantini B, Manes A, Fiumana E, Pignatti C, Guarnieri C, Zannoli R, et al. Antiproliferative effect of sildenafil on human pulmonary artery smooth muscle cells. Basic Res Cardiol. 2005;100(2):131-8.
 56.	Nichols DJ, Muirhead GJ, Harness JA. Pharmacokinetics of sildenafil after single oral doses in healthy male subjects: absolute bioavailability, food effects and dose proportionality. Br J Clin Pharmacol. 2002;53 Suppl 1(Suppl 1):5s-12s.
 57.	Pfizer. Revatio Product Monograph - Sildenafil Oral Suspension. 2014.
-58.	Open Systems Pharmacology - PBPK Model Library - Sildenafil [Internet]. 2022 [cited October 24, 2022]. Available from: https://github.com/Open-Systems-Pharmacology/Sildenafil-Model.
+58.	Open Systems Pharmacology - PBPK Model Library - Sildenafil [Internet]. 2022 [cited October 24, 2022]. Available from: [https://github.com/Open-Systems-Pharmacology/Sildenafil-Model](https://github.com/Open-Systems-Pharmacology/Sildenafil-Model).
 59.	Muirhead GJ, Wilner K, Colburn W, Haug-Pihale G, Rouviex B. The effects of age and renal and hepatic impairment on the pharmacokinetics of sildenafil. Br J Clin Pharmacol. 2002;53 Suppl 1(Suppl 1):21s-30s.
 60.	Barnes PJ. Theophylline. Am J Respir Crit Care Med. 2013;188(8):901-6.
 61.	Rabe KF, Magnussen H, Dent G. Theophylline and selective PDE inhibitors as bronchodilators and smooth muscle relaxants. Eur Respir J. 1995;8(4):637-42.
 62.	Polosa R, Blackburn MR. Adenosine receptors as targets for therapeutic intervention in asthma and chronic obstructive pulmonary disease. Trends Pharmacol Sci. 2009;30(10):528-35.
-63.	Open Systems Pharmacology - PBPK Model Library - Theophylline [Internet]. 2019 [cited October 24, 2022]. Available from: https://github.com/Open-Systems-Pharmacology/Theophylline-Model.
+63.	Open Systems Pharmacology - PBPK Model Library - Theophylline [Internet]. 2019 [cited October 24, 2022]. Available from: [https://github.com/Open-Systems-Pharmacology/Theophylline-Model](https://github.com/Open-Systems-Pharmacology/Theophylline-Model).
 64.	Butts JD, Secrest B, Berger R. Nonlinear theophylline pharmacokinetics. A preventable cause of iatrogenic theophylline toxic reactions. Arch Intern Med. 1991;151(10):2073-7.
 65.	Ogilvie RI. Clinical pharmacokinetics of theophylline. Clin Pharmacokinet. 1978;3(4):267-93.
 66.	Simons KJ, Simons FE, Briggs CJ, Lo L. Theophylline protein binding in humans. J Pharm Sci. 1979;68(2):252-3.

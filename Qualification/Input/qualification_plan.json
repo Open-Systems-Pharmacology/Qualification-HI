@@ -9,7 +9,7 @@
          "Id": "Levetiracetam",
          "Path": "Models/Levetiracetam.json"
       },
-       {
+      {
          "Id": "Metoprolol",
          "Path": "Models/Metoprolol.json"
       },
@@ -24,6 +24,10 @@
       {
          "Id": "Theophylline",
          "Path": "Models/Theophylline.json"
+      },
+      {
+         "Id": "Lidocaine",
+         "Path": "Models/Lidocaine.json"
       }
    ],
    "ObservedDataSets": [],
@@ -262,7 +266,7 @@
                      "Content": "Content/Lidocaine_HI.md"
                   }
                ]
-            },
+            }
          ]
       },
       {
