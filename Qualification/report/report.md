@@ -1,5 +1,24 @@
 
 
+
+
+# Qualification of CKD Populations
+
+
+
+| Version                                         | 1.0-OSP12.0                                                   |
+| ----------------------------------------------- | ------------------------------------------------------------ |
+| OSP Version                                     | 12.0                                                          |
+| Qualification Framework Version                 | 3.0                                                          |
+
+
+
+This qualification report and the corresponding PK-Sim project file are filed at:
+
+https://github.com/Open-Systems-Pharmacology/Qualification-CKD
+
+
+
 # Table of Contents
 
  * [1 Introduction ](#undefined-section-1)
@@ -199,7 +218,7 @@ Simulated PK of alfentanil after a single IV bolus dose of 0.05 mg/kg in patient
 
 
 
-**Figure 3-1: Ferrier 1985, Alfentanil IV 0.05 mg/kg**
+**Figure 3-1: Ferrier 1985, Alfentanil IV 0.05 mg/kg: Simulation of the pharmacokinetics of alfentanil after a single intravenous bolus dose of 0.05 mg/kg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as mean and standard deviation from the study by Ferrier et al [10].**
 
 
 <br>
@@ -212,7 +231,7 @@ Simulated PK of alfentanil after a single IV bolus dose of 0.05 mg/kg in patient
 
 
 
-**Figure 3-2: Ferrier 1985, Alfentanil IV 0.05 mg/kg**
+**Figure 3-2: Ferrier 1985, Alfentanil IV 0.05 mg/kg: Simulation of the pharmacokinetics of alfentanil after a single intravenous bolus dose of 0.05 mg/kg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as mean and standard deviation from the study by Ferrier et al [10].**
 
 
 <br>
@@ -305,7 +324,7 @@ Simulated PK of levetiracetam administered as a 1000 mg oral single dose in pati
 
 
 
-**Figure 3-3: Brockmoller 2005, Levetiracetam PO 1000mg**
+**Figure 3-3: Brockmoller 2005, Levetiracetam PO 1000mg: Simulation of the pharmacokinetics of levetiracetam after a single oral dose of 1000 mg in patients with hepatic impairment classified as Child-Pugh score A. Observed data (circles) presented as the individual concentration time profiles of participants enrolled in the study by Brockmoller et al (18). The solid line represents the arithmetic mean and the shaded region represents the 5th-95th percentile of the hepatic impairment population.**
 
 
 <br>
@@ -318,7 +337,7 @@ Simulated PK of levetiracetam administered as a 1000 mg oral single dose in pati
 
 
 
-**Figure 3-4: Brockmoller 2005, Levetiracetam PO 1000mg**
+**Figure 3-4: Brockmoller 2005, Levetiracetam PO 1000mg: Simulation of the pharmacokinetics of levetiracetam after a single oral dose of 1000 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the individual concentration time profiles of participants enrolled in the study by Brockmoller et al (18). The solid line represents the arithmetic mean and the shaded region represents the 5th-95th percentile of the hepatic impairment population.**
 
 
 <br>
@@ -331,7 +350,7 @@ Simulated PK of levetiracetam administered as a 1000 mg oral single dose in pati
 
 
 
-**Figure 3-5: Brockmoller 2005, Levetiracetam PO 1000mg**
+**Figure 3-5: Brockmoller 2005, Levetiracetam PO 1000mg: Simulation of the pharmacokinetics of levetiracetam after a single oral dose of 1000 mg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the individual concentration time profiles of participants enrolled in the study by Brockmoller et al (18). The solid line represents the arithmetic mean and the shaded region represents the 5th-95th percentile of the hepatic impairment population.**
 
 
 <br>
@@ -443,7 +462,7 @@ Simulated PK of metoprolol administered as 50 mg oral single dose in patients wi
 
 
 
-**Figure 3-6: Regardh 1981, Metoprolol tartrate PO 50mg**
+**Figure 3-6: Regardh 1981, Metoprolol tartrate PO 50mg: Simulation of the pharmacokinetics of metoprolol tartrate after a single oral dose of 50 mg in patients with hepatic impairment classified as Child-Pugh score A. Observed data (circles) presented as the mean concentration time profiles with standard deviation of participants enrolled in the study by Regårdh, Jordö (24). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>
@@ -596,7 +615,7 @@ Finally, an evaluation of predicted versus observed AUC<sub>8</sub> and Cmax fro
 
 
 
-**Figure 3-8: Macgilchrist 1986, Midazolam IV 0.075 mg/kg**
+**Figure 3-8: Macgilchrist 1986, Midazolam IV 0.075 mg/kg: Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 0.075 mg/kg in patients with hepatic impairment classified as Child-Pugh score A. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by MacGilchrist, Birnie (31). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>
@@ -609,7 +628,7 @@ Finally, an evaluation of predicted versus observed AUC<sub>8</sub> and Cmax fro
 
 
 
-**Figure 3-9: Macgilchrist 1986, Midazolam IV 0.075 mg/kg**
+**Figure 3-9: Macgilchrist 1986, Midazolam IV 0.075 mg/kg: Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 0.075 mg/kg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by MacGilchrist, Birnie (31). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>
@@ -622,7 +641,7 @@ Finally, an evaluation of predicted versus observed AUC<sub>8</sub> and Cmax fro
 
 
 
-**Figure 3-10: Macgilchrist 1986, Midazolam IV 0.075 mg/kg**
+**Figure 3-10: Macgilchrist 1986, Midazolam IV 0.075 mg/kg: Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 0.075 mg/kg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by MacGilchrist, Birnie (31). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>
@@ -635,7 +654,7 @@ Finally, an evaluation of predicted versus observed AUC<sub>8</sub> and Cmax fro
 
 
 
-**Figure 3-11: Pentikainen 1989, Midazolam IV 7.5 mg**
+**Figure 3-11: Pentikainen 1989, Midazolam IV 7.5 mg: Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 7.5 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Pentikäinen, Välisalmi (32). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>
@@ -648,7 +667,7 @@ Finally, an evaluation of predicted versus observed AUC<sub>8</sub> and Cmax fro
 
 
 
-**Figure 3-12: Pentikainen 1989, Midazolam IV 7.5 mg**
+**Figure 3-12: Pentikainen 1989, Midazolam IV 7.5 mg: Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 7.5 mg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Pentikäinen, Välisalmi (32). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>
@@ -661,7 +680,7 @@ Finally, an evaluation of predicted versus observed AUC<sub>8</sub> and Cmax fro
 
 
 
-**Figure 3-13: Pentikainen 1989, Midazolam PO 15 mg**
+**Figure 3-13: Pentikainen 1989, Midazolam PO 15 mg: Simulation of the pharmacokinetics of midazolam after a single oral dose of 15 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Pentikäinen, Välisalmi (32). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>
@@ -674,7 +693,7 @@ Finally, an evaluation of predicted versus observed AUC<sub>8</sub> and Cmax fro
 
 
 
-**Figure 3-14: Pentikainen 1989, Midazolam PO 15 mg**
+**Figure 3-14: Pentikainen 1989, Midazolam PO 15 mg: Simulation of the pharmacokinetics of midazolam after a single oral dose of 15 mg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Pentikäinen, Välisalmi (32). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>
@@ -779,7 +798,7 @@ Simulated PK of sildenafil administered as a 50 mg oral single dose in patients 
 
 
 
-**Figure 3-15: Muirhead 2002, Sildenafil PO 50 mg**
+**Figure 3-15: Muirhead 2002, Sildenafil PO 50 mg: Simulation of the pharmacokinetics of sildenafil after a single oral dose of 50 mg in patients with hepatic impairment classified as Child-Pugh score A. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Muirhead, Wilner (38). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>
@@ -792,7 +811,7 @@ Simulated PK of sildenafil administered as a 50 mg oral single dose in patients 
 
 
 
-**Figure 3-16: Muirhead 2002, Sildenafil PO 50 mg**
+**Figure 3-16: Muirhead 2002, Sildenafil PO 50 mg: Simulation of the pharmacokinetics of sildenafil after a single oral dose of 50 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Muirhead, Wilner (38). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>
@@ -993,7 +1012,7 @@ Simulated PK of levetiracetam administered as a 1000 mg oral single dose in pati
 
 
 
-**Figure 3-19: Orlando 2003, Lidocaine IV 1 mg/kg**
+**Figure 3-19: Orlando 2003, Lidocaine IV 1 mg/kg: Simulation of the pharmacokinetics of lidocaine after a single intravenous dose of 1 mg/kg in patients with hepatic impairment classified as Child-Pugh score A. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Orlando, Piccoli (50). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>
@@ -1006,7 +1025,7 @@ Simulated PK of levetiracetam administered as a 1000 mg oral single dose in pati
 
 
 
-**Figure 3-20: Orlando 2003, Lidocaine IV 1 mg/kg**
+**Figure 3-20: Orlando 2003, Lidocaine IV 1 mg/kg: Simulation of the pharmacokinetics of lidocaine after a single intravenous dose of 1 mg/kg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Orlando, Piccoli (50). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>

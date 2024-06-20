@@ -2211,8 +2211,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Macgilchrist 1986, Midazolam IV 0.075 mg/kg",
-          "Description": "Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 0.075 mg/kg in patients with hepatic impairment classified as Child-Pugh score A. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by MacGilchrist, Birnie (31). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.", 
+          "Name": "Macgilchrist 1986, Midazolam IV 0.075 mg/kg: Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 0.075 mg/kg in patients with hepatic impairment classified as Child-Pugh score A. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by MacGilchrist, Birnie (31). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.", 
           "FontAndSize": {
             "ChartWidth": 1000,
             "ChartHeight": 800,
@@ -2462,8 +2461,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Macgilchrist 1986, Midazolam IV 0.075 mg/kg",
-          "Description": "Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 0.075 mg/kg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by MacGilchrist, Birnie (31). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.", 
+          "Name": "Macgilchrist 1986, Midazolam IV 0.075 mg/kg: Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 0.075 mg/kg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by MacGilchrist, Birnie (31). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.", 
           "FontAndSize": {
             "ChartWidth": 1000,
             "ChartHeight": 800,
@@ -2733,8 +2731,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Macgilchrist 1986, Midazolam IV 0.075 mg/kg",
-          "Description": "Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 0.075 mg/kg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by MacGilchrist, Birnie (31). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.", 
+          "Name": "Macgilchrist 1986, Midazolam IV 0.075 mg/kg: Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 0.075 mg/kg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by MacGilchrist, Birnie (31). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.", 
           "FontAndSize": {
             "ChartWidth": 1000,
             "ChartHeight": 800,
@@ -3321,8 +3318,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Pentikainen 1989, Midazolam IV 7.5 mg",
-          "Description": "Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 7.5 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Pentikäinen, Välisalmi (32). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.",
+          "Name": "Pentikainen 1989, Midazolam IV 7.5 mg: Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 7.5 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Pentikäinen, Välisalmi (32). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.",
           "FontAndSize": {
             "ChartWidth": 1000,
             "ChartHeight": 800,
@@ -3554,8 +3550,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Pentikainen 1989, Midazolam IV 7.5 mg",
-          "Description": "Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 7.5 mg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Pentikäinen, Välisalmi (32). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.",
+          "Name": "Pentikainen 1989, Midazolam IV 7.5 mg: Simulation of the pharmacokinetics of midazolam after a single intravenous dose of 7.5 mg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Pentikäinen, Välisalmi (32). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.",
           "FontAndSize": {
             "ChartWidth": 1000,
             "ChartHeight": 800,
@@ -5073,8 +5068,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Pentikainen 1989, Midazolam PO 15 mg",
-          "Description": "Simulation of the pharmacokinetics of midazolam after a single oral dose of 15 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Pentikäinen, Välisalmi (32). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.",
+          "Name": "Pentikainen 1989, Midazolam PO 15 mg: Simulation of the pharmacokinetics of midazolam after a single oral dose of 15 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Pentikäinen, Välisalmi (32). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.",
           "FontAndSize": {
             "ChartWidth": 1000,
             "ChartHeight": 800,
@@ -5873,8 +5867,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Pentikainen 1989, Midazolam PO 15 mg",
-          "Description": "Simulation of the pharmacokinetics of midazolam after a single oral dose of 15 mg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Pentikäinen, Välisalmi (32). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.",
+          "Name": "Pentikainen 1989, Midazolam PO 15 mg: Simulation of the pharmacokinetics of midazolam after a single oral dose of 15 mg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Pentikäinen, Välisalmi (32). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.",
           "FontAndSize": {
             "ChartWidth": 1000,
             "ChartHeight": 800,

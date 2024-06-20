@@ -1129,8 +1129,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Ferrier 1985, Alfentanil IV 0.05 mg/kg",
-          "Description": "Simulation of the pharmacokinetics of alfentanil after a single intravenous bolus dose of 0.05 mg/kg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as mean and standard deviation from the study by Ferrier et al [10].",
+          "Name": "Ferrier 1985, Alfentanil IV 0.05 mg/kg: Simulation of the pharmacokinetics of alfentanil after a single intravenous bolus dose of 0.05 mg/kg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as mean and standard deviation from the study by Ferrier et al [10].",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -1309,8 +1308,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Ferrier 1985, Alfentanil IV 0.05 mg/kg",
-          "Description": "Simulation of the pharmacokinetics of alfentanil after a single intravenous bolus dose of 0.05 mg/kg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as mean and standard deviation from the study by Ferrier et al [10].",
+          "Name": "Ferrier 1985, Alfentanil IV 0.05 mg/kg: Simulation of the pharmacokinetics of alfentanil after a single intravenous bolus dose of 0.05 mg/kg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as mean and standard deviation from the study by Ferrier et al [10].",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,

@@ -2031,8 +2031,7 @@
             "AutoRange": true
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Muirhead 2002, Sildenafil PO 50 mg",
-          "Description": "Simulation of the pharmacokinetics of sildenafil after a single oral dose of 50 mg in patients with hepatic impairment classified as Child-Pugh score A. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Muirhead, Wilner (38). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.",
+          "Name": "Muirhead 2002, Sildenafil PO 50 mg: Simulation of the pharmacokinetics of sildenafil after a single oral dose of 50 mg in patients with hepatic impairment classified as Child-Pugh score A. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Muirhead, Wilner (38). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.",
           "FontAndSize": {
             "ChartWidth": 1000,
             "ChartHeight": 800,
@@ -2374,8 +2373,7 @@
             "AutoRange": true
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Muirhead 2002, Sildenafil PO 50 mg",
-          "Description": "Simulation of the pharmacokinetics of sildenafil after a single oral dose of 50 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Muirhead, Wilner (38). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.",
+          "Name": "Muirhead 2002, Sildenafil PO 50 mg: Simulation of the pharmacokinetics of sildenafil after a single oral dose of 50 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Muirhead, Wilner (38). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.",
           "FontAndSize": {
             "ChartWidth": 1000,
             "ChartHeight": 800,

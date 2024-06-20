@@ -25,4 +25,4 @@ The healthy PBPK model development was based on multiple IV PK studies with 10, 
 
 #### Oral model
 
-The healthy PBPK model development was based on multiple oral PK studies described in the OSP omeprazole report (48) and by Kanacher, Lindauer (49). Absorption parameters in the oral model included omeprazole capsule described by a Weibull distribution with dissolution half-timee of 41.65 min, lag time of 30 min, and shape 1.02.
+The healthy PBPK model development was based on multiple oral PK studies described in the OSP omeprazole report (48) and by Kanacher, Lindauer (49). Absorption parameters in the oral model included omeprazole capsule described by a Weibull distribution with dissolution half-time of 41.65 min, lag time of 30 min, and shape 1.02.

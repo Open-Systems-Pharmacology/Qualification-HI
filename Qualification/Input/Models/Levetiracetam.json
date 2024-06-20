@@ -1576,8 +1576,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Brockmoller 2005, Levetiracetam PO 1000mg",
-          "Description": "Simulation of the pharmacokinetics of levetiracetam after a single oral dose of 1000 mg in patients with hepatic impairment classified as Child-Pugh score A. Observed data (circles) presented as the individual concentration time profiles of participants enrolled in the study by Brockmoller et al (18). The solid line represents the arithmetic mean and the shaded region represents the 5th-95th percentile of the hepatic impairment population.",
+          "Name": "Brockmoller 2005, Levetiracetam PO 1000mg: Simulation of the pharmacokinetics of levetiracetam after a single oral dose of 1000 mg in patients with hepatic impairment classified as Child-Pugh score A. Observed data (circles) presented as the individual concentration time profiles of participants enrolled in the study by Brockmoller et al (18). The solid line represents the arithmetic mean and the shaded region represents the 5th-95th percentile of the hepatic impairment population.",
           "FontAndSize": {
             "ChartWidth": 1000,
             "ChartHeight": 800,
@@ -1787,8 +1786,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Brockmoller 2005, Levetiracetam PO 1000mg",
-          "Description": ": Simulation of the pharmacokinetics of levetiracetam after a single oral dose of 1000 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the individual concentration time profiles of participants enrolled in the study by Brockmoller et al (18). The solid line represents the arithmetic mean and the shaded region represents the 5th-95th percentile of the hepatic impairment population.",
+          "Name": "Brockmoller 2005, Levetiracetam PO 1000mg: Simulation of the pharmacokinetics of levetiracetam after a single oral dose of 1000 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the individual concentration time profiles of participants enrolled in the study by Brockmoller et al (18). The solid line represents the arithmetic mean and the shaded region represents the 5th-95th percentile of the hepatic impairment population.",
           "FontAndSize": {
             "ChartWidth": 1000,
             "ChartHeight": 800,
@@ -1998,8 +1996,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Brockmoller 2005, Levetiracetam PO 1000mg",
-          "Description": "Simulation of the pharmacokinetics of levetiracetam after a single oral dose of 1000 mg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the individual concentration time profiles of participants enrolled in the study by Brockmoller et al (18). The solid line represents the arithmetic mean and the shaded region represents the 5th-95th percentile of the hepatic impairment population.",
+          "Name": "Brockmoller 2005, Levetiracetam PO 1000mg: Simulation of the pharmacokinetics of levetiracetam after a single oral dose of 1000 mg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the individual concentration time profiles of participants enrolled in the study by Brockmoller et al (18). The solid line represents the arithmetic mean and the shaded region represents the 5th-95th percentile of the hepatic impairment population.",
           "FontAndSize": {
             "ChartWidth": 1000,
             "ChartHeight": 800,
