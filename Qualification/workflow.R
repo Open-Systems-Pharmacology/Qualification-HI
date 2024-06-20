@@ -128,7 +128,7 @@ createQualificationReport <- function(qualificationRunnerFolder,
 
   setDefaultThemeFromJson("re-theme.json")
   workflow$configurationPlan$updateTheme()
-  
+
   #' Set the name of the final report
   workflow$reportFilePath <- reportPath
   workflow$createWordReport <- createWordReport
