@@ -221,12 +221,12 @@
                "Sections": [
                   {
                      "Reference": "Sildenafil_Healthy",
-                     "Title": "Sildenafil in a Healthy Population",
+                     "Title": "Sildenafil in a Healthy Population - PO",
                      "Content": "Content/Sildenafil_healthy.md"
                   },
                   {
                      "Reference": "Sildenafil_HI",
-                     "Title": "Sildenafil in a HI Population",
+                     "Title": "Sildenafil in a HI Population - PO",
                      "Content": "Content/Sildenafil_HI.md"
                   }
                ]

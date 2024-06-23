@@ -1,31 +1,32 @@
-#### IV/PO model
+Sildenafil physicochemical properties and ADME parameters were incorporated from the model developed by Open-System Pharmacology (37). [Table 21](#table_21). presents the drug specific parameters of sildenafil and the values used within the healthy adult model.
 
-Sildenafil physiochemical properties and ADME parameters were incorporated from the model developed by the OSP Community (58). **Table 1** presents the drug specific parameters of sildenafil and the values used in the healthy adult IV/PO model.
+The clinical data used to develop the sildenafil PBPK model may be found within the Open-System Pharmacology Evaluation Report. 
 
-The healthy PBPK model development was based on single dose IV and oral PK studies described in the OSP sildenafil report (58). The studies involved a doses of 25 mg, 40 mg, 50 mg, and 80 mg with IV administration, and doses of 20 mg, 50 mg, and 100 mg with oral administration. 
+**Table 21. Physicochemical properties and ADME of sildenafil for the final oral model**
 
-**Table 1. Physicochemical properties and ADME of sildenafil for the final IV/PO model**
-
-| **Physicochemical properties**    |                                      |
-|--|--|
-| Octanol:water coefficient (logP)           | 2.84 Log Units |
-| Fraction unbound in plasma (f<sub>u</sub>) | 0.04 |
-| Molecular weight (MW)                      | 474.58 g/mol |
-| pKa                                        | 5.97 |
-| Water solubility                           | 100 mg/L |
-| **ADME**                                   |                             |
-| Partition coefficient                      | Rodgers and Rowland |
-| Cell permeability                          | PK-Sim Standard |
-| CYP3A4 concentration                       | 4.32 µM |
-| CYP3A4 K<sub>M</sub>                       | 23.1 µM |
-| CYP3A4 K<sub>cat</sub>                     | 1.78 1/min |
-| CYP2C9 concentration                       | 3.84 µM |
-| CYP2C9 K<sub>M</sub>                       | 9.6 µM |
-| CYP2C9 K<sub>cat</sub>                     | 3.52 1/min |
-| CYP2C19 concentration                      | 0.76 µM |
-| CYP2C19 K<sub>M</sub>                      | 23.1 µM |
-| CYP2C19 K<sub>cat</sub>                    | 1.78 1/min |
-| CL<sub>ren</sub>                           | 0.64 |
-| Specific intestinal permeability (transcellular) | 4.48E-4 cm/min |
-| **Oral absorption parameters**             |                             |
-| Formulation: Tablet; Weibull dissolution time (50% dissolved), lag time, dissolution shape | 4.16 min, 0 min, 1.37 |
+| **Physicochemical properties** | -|   	
+| -- | -- | 	
+| Octanol:water coefficient (logP) | 2.84 Log Units |
+| Fraction unbound in plasma (fu) | 0.04 |
+| Molecular weight (MW) | 474.58 g/mol |
+| pKa | 5.97 |
+| Water |  solubility 100 mg/L  |
+| **ADME**| |
+| Partition coefficient | Rodgers and Rowland |
+| Cell permeability | PK-Sim Standard |
+| CYP3A4 concentration | Log-normally distributed with mean 4.32 µmol/L  |
+| CYP3A4 KM | 23.1 µmol/L  |
+| CYP3A4 kcat | 1.78 1/min  |
+| CYP2C9 concentration | Log-normally distributed with mean 3.84 µmol/L |
+| CYP2C9 KM | 9.60 µmol/L |
+| CYP2C9 kcat | 3.52 1/min |
+| CYP2C19 concentration | Log-normally distributed with mean 0.76 µmol/L |
+| CYP2C19 KM | 23.10 µmol/L |
+| CYP2C19 kcat  | 1.78 1/min |
+| CLren | 2.46 E-03 1/min |
+| Specific intestinal permeability (transcellular) |  4.48E-4 cm/min |
+| **Formulation**| | 
+| Tablet (Weibull)| |
+| Dissolution time (50% dissolved) | 4.16 min |
+| Lag time | 0 min |
+| Dissolution shape | 1.37 |
