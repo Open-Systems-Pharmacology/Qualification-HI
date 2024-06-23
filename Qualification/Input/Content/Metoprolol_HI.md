@@ -10,7 +10,7 @@ Child-Pugh prognostication was not documented within this study, and limited cli
 
 | **Study** | **Dose and administration** | **Cohort** | **N** | **Age (years)** | **Weight (kg)** |
 |--|--|--|--|--|--|
-| Regårdh, Jordö (35) | 20 mg IV bolus | European females 50%) and males, based on clinical observations (ascites, albumin,serum creatinine levels, etc.) Child-Pugh A and B | 10 | 50 ± 8 | 89 ± 16 |
+| Regårdh, Jordö (35) | 20 mg IV bolus | European females 50%) and males, based on clinical observations (ascites, albumin,serum creatine levels, etc.) Child-Pugh A and B | 10 | 50 ± 8 | 89 ± 16 |
 
 **Table 12. Evaluation of predicted versus observed clearance within the intravenous metoprolol population HI-PBPK model for patients enrolled in the study by Regårdh et al.(24).** <a id="table_12">
 

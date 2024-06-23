@@ -31,4 +31,4 @@ The healthy PBPK model development was based on multiple IV PK studies described
 
 #### Oral model
 
-The healthy PBPK model development was based on multiple oral PK studies described in the metoprolol report (19) and Rüdesheim, Wojtyniak (20).  Absorption parameters in the oral model included metoprolol tartate tablet described by a Weibull distribution with dissolution half-time of 12.31 min and shape 0.72. 
+The healthy PBPK model development was based on multiple oral PK studies described in the metoprolol report (19) and Rüdesheim, Wojtyniak (20).  Absorption parameters in the oral model included metoprolol tartrate tablet described by a Weibull distribution with dissolution half-time of 12.31 min and shape 0.72. 

@@ -23,7 +23,7 @@ The clinical data used to develop the sildenafil PBPK model may be found within 
 | CYP2C19 concentration | Log-normally distributed with mean 0.76 µmol/L |
 | CYP2C19 KM | 23.10 µmol/L |
 | CYP2C19 kcat  | 1.78 1/min |
-| CLren | 2.46 E-03 1/min |
+| Renal clearance | 2.46 E-03 1/min |
 | Specific intestinal permeability (transcellular) |  4.48E-4 cm/min |
 | **Formulation**| | 
 | Tablet (Weibull)| |

@@ -2,7 +2,7 @@ Drug specific parameters were fixed from the healthy lidocaine PBPK model. Physi
 
 **Table 30. HI population demographics for lidocaine IV administration** <a id="table_30">
 
-| Child-Pugh| Dose and Administration| Cohot (n)| Age (Years)| Weight (kg)| Height (cm)| BMI (kg/m2)
+| Child-Pugh| Dose and Administration| Cohort (n)| Age (Years)| Weight (kg)| Height (cm)| BMI (kg/m2)
 |--|--|--|--|--|--|--|
 | A | 1 mg/kg IV administered over 1 minute | 10/20 | 55±7 | 82±10 | 172±6 | 27±2.3| 
 | C | 1 mg/kg IV administered over 1 minute | 10/20 | 54±9 | 79±8 | 170±7 | 28±2.7| 

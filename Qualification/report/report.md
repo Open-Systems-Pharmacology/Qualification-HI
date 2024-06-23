@@ -154,7 +154,7 @@ Each subsection that follows will contain an introduction to the test compound, 
 ## 3.1 Alfentanil <a id="undefined-section-4"></a>
 
 
-Alfenatanil is a potent, synthetic opioid used to provide analgesia for various surgical procedures and in patients admitted within intensive care units. Alfentanil is typically administered intravenously and offers several advantages to alternative analgesics due to its potency at the opioid receptor and quick onset of effect (3).
+Alfentanil is a potent, synthetic opioid used to provide analgesia for various surgical procedures and in patients admitted within intensive care units. Alfentanil is typically administered intravenously and offers several advantages to alternative analgesics due to its potency at the opioid receptor and quick onset of effect (3).
 
 In this section, the general ADME ([Table 3](#table_3)), the healthy PBPK model source, and translation to a population with HI for alfentanil are described.
 
@@ -429,7 +429,7 @@ The healthy PBPK model development was based on multiple IV PK studies described
 
 #### Oral model
 
-The healthy PBPK model development was based on multiple oral PK studies described in the metoprolol report (19) and Rüdesheim, Wojtyniak (20).  Absorption parameters in the oral model included metoprolol tartate tablet described by a Weibull distribution with dissolution half-time of 12.31 min and shape 0.72. 
+The healthy PBPK model development was based on multiple oral PK studies described in the metoprolol report (19) and Rüdesheim, Wojtyniak (20).  Absorption parameters in the oral model included metoprolol tartrate tablet described by a Weibull distribution with dissolution half-time of 12.31 min and shape 0.72. 
 
 
 
@@ -450,7 +450,7 @@ Child-Pugh prognostication was not documented within this study, and limited cli
 
 | **Study** | **Dose and administration** | **Cohort** | **N** | **Age (years)** | **Weight (kg)** |
 |--|--|--|--|--|--|
-| Regårdh, Jordö (35) | 20 mg IV bolus | European females 50%) and males, based on clinical observations (ascites, albumin,serum creatinine levels, etc.) Child-Pugh A and B | 10 | 50 ± 8 | 89 ± 16 |
+| Regårdh, Jordö (35) | 20 mg IV bolus | European females 50%) and males, based on clinical observations (ascites, albumin,serum creatine levels, etc.) Child-Pugh A and B | 10 | 50 ± 8 | 89 ± 16 |
 
 **Table 12. Evaluation of predicted versus observed clearance within the intravenous metoprolol population HI-PBPK model for patients enrolled in the study by Regårdh et al.(24).** <a id="table_12">
 
@@ -776,7 +776,7 @@ The clinical data used to develop the sildenafil PBPK model may be found within 
 | CYP2C19 concentration | Log-normally distributed with mean 0.76 µmol/L |
 | CYP2C19 KM | 23.10 µmol/L |
 | CYP2C19 kcat  | 1.78 1/min |
-| CLren | 2.46 E-03 1/min |
+| Renal clearance | 2.46 E-03 1/min |
 | Specific intestinal permeability (transcellular) |  4.48E-4 cm/min |
 | **Formulation**| | 
 | Tablet (Weibull)| |
@@ -1016,7 +1016,7 @@ Drug specific parameters were fixed from the healthy lidocaine PBPK model. Physi
 
 **Table 30. HI population demographics for lidocaine IV administration** <a id="table_30">
 
-| Child-Pugh| Dose and Administration| Cohot (n)| Age (Years)| Weight (kg)| Height (cm)| BMI (kg/m2)
+| Child-Pugh| Dose and Administration| Cohort (n)| Age (Years)| Weight (kg)| Height (cm)| BMI (kg/m2)
 |--|--|--|--|--|--|--|
 | A | 1 mg/kg IV administered over 1 minute | 10/20 | 55±7 | 82±10 | 172±6 | 27±2.3| 
 | C | 1 mg/kg IV administered over 1 minute | 10/20 | 54±9 | 79±8 | 170±7 | 28±2.7| 
