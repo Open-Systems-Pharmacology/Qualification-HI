@@ -1,8 +1,7 @@
 #### IV model
 
-With the drug-specific parameters fixed, the healthy PBPK model was translated to a HI-PBPK model. Stages of HI used in the simulations were defined by the Child-Pugh score. Two PK studies, Macgilchrist, Birnie (42) and Pentikäinen, Välisalmi (43), were used to evaluate the HI-PBPK model with IV administration (**Table 2**). 
-
-A population with Child-Pugh A, B, and C was created according to the patient demographics of the population enrolled by Macgilchrist, Birnie (42). Similarly, a population with Child-Pugh B and C was created according to the patient demographics of the population enrolled by Pentikäinen, Välisalmi (43). The Child-Pugh scores were not defined in these studies, and thus reported information such as plasma albumin concentrations, total bilirubin, etc. were used to classify. 
+##### MacGilchrist et al. 
+Drug specific parameters were fixed within from the healthy midazolam PBPK model. Physiological alterations within hepatic impairment were applied to the model and simulations were conducted for virtual patients with stages of liver impairment classified as Child-Pugh A to C, corresponding to the patient demographics in the study by MacGilchrist, Birnie (31). Child-Pugh prognostication was not documented within this study, and limited clinical variables were reported to fully assess Child-Pugh status. Based on the clinical variables that were reported (i.e., total bilirubin, albumin), the study population likely consisted of patients representing each Child-Pugh classification. Therefore, for the population HI-PBPK model simulations for intravenous midazolam each Child-Pugh score was evaluated against observed data. Additionally, predicted clearance (mL/min/kg) and elimination half-life (h) was compared to control subjects. Participant demographics included within the study by MacGilchrist, Birnie (31) used for population PBPK simulations may be found in Table 2. 
 
 **Table 2. HI population demographics for midazolam IV administration**
 

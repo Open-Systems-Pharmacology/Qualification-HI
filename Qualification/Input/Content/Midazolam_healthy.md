@@ -1,8 +1,9 @@
 #### IV/PO model
 
-Midazolam physiochemical properties and ADME parameters were incorporated from the model developed by Hanke, Frechen (5). **Table 1** presents the drug specific parameters of midazolam and the values used in the healthy adult IV/PO model.
+Midazolam physicochemical properties and ADME parameters were incorporated from the model developed by Hanke, Frechen (5). Table 1. presents the drug specific parameters of midazolam and the values used within the healthy adult model.
 
-The healthy PBPK model development was based on single dose IV and oral PK studies described in the OSP midazolam report (36) and by Hanke, Frechen (5). The studies involved a variety of doses, such as 0.05 mg/kg IV bolus, 1 mg solution to 40 mg tablet, etc. 
+The healthy PBPK model development by Hanke, Frechen (5) was based on PK studies by Hohmann, Kocheise (28), Hyland, Osborne (29), and Thummel, O'Shea (30).    
+
 
 **Table 1. Physicochemical properties and ADME of midazolam for the final IV/PO model**
 
