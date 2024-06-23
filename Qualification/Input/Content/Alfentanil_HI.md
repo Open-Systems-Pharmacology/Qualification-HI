@@ -1,6 +1,10 @@
-With the drug-specific parameters fixed, the healthy PBPK model was translated to a HI-PBPK model. Stages of HI used within the simulations were defined by the Child-Pugh Score. A population with Child-Pugh B and Child-Pugh C was created according to the patient demographics of the population enrolled in the study by Ferrier, Marty (10) [Table 5](#table_5).
+Levetiracetam is an antiepileptic used for the treatment of patients with partial seizures, with or without secondary generalization (11, 12). The mechanism of antiseizure activity has not been fully elucidated, however animal models have shown that levetiracetam binds to synaptic vesicle proteins SV2A modulating neurotransmitter release (13). 
 
-**Table 2. HI population demographics for alfentanil IV administration** <a id="table_5">
+In this section, the general ADME (Table 6.), the healthy PBPK model source, and translation to a population with HI for levetiracetam are described.
+
+[Table 5](#table_5).
+
+**Table 5. HI population demographics for alfentanil IV administration** <a id="table_5">
 
 | **Study** | **Dose and administration** | **Cohort (sample size)** | **Age (years)** | **Weight (kg)** |
 |--|--|--|--|--|

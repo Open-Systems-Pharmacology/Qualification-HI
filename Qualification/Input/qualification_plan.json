@@ -173,12 +173,12 @@
                "Sections": [
                   {
                      "Reference": "Levetiracetam_Healthy",
-                     "Title": "Levetiracetam in a Healthy Population",
+                     "Title": "Levetiracetam in a Healthy Population - Oral",
                      "Content": "Content/Levetiracetam_healthy.md"
                   },
                   {
                      "Reference": "Levetiracetam_HI",
-                     "Title": "Levetiracetam in a HI Population",
+                     "Title": "Levetiracetam in a HI Population - Oral",
                      "Content": "Content/Levetiracetam_HI.md"
                   }
                ]
