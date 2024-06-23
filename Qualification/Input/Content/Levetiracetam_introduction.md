@@ -2,7 +2,7 @@ Levetiracetam is an antiepileptic used for the treatment of patients with partia
 
 In this section, the general ADME ([Table 6](#table_6)), the healthy PBPK model source, and translation to a population with HI for levetiracetam are described.
 
-**Table 1. General ADME of levetiracetam (25)** <a id="table_6">
+**Table 6. General ADME of levetiracetam (14)** <a id="table_6">
 
 | BCS classification | I |
 | -- | -- | 
