@@ -3134,7 +3134,7 @@
             "AutoRange": true
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Regardh 1981, Metoprolol tartrate PO 50mg: Simulation of the pharmacokinetics of metoprolol tartrate after a single oral dose of 50 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviation of participants enrolled in the study by Regårdh, Jordö (24). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.",
+          "Name": "Time Profile Analysis",
           "FontAndSize": {
             "ChartWidth": 1000,
             "ChartHeight": 800,
@@ -4663,7 +4663,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Time Profile Analysis",
+          "Name": "Regardh 1981, Metoprolol tartrate PO 50mg: Simulation of the pharmacokinetics of metoprolol tartrate after a single oral dose of 50 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviation of participants enrolled in the study by Regårdh, Jordö (24). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.",
           "FontAndSize": {
             "ChartWidth": 1000,
             "ChartHeight": 800,
