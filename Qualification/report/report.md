@@ -488,7 +488,7 @@ Child-Pugh prognostication was not documented within this study, and limited cli
 
 
 
-**Figure 3-7: Time Profile Analysis**
+**Figure 3-7: Regardh 1981, Metoprolol tartrate PO 50mg: Simulation of the pharmacokinetics of metoprolol tartrate after a single oral dose of 50 mg in patients with hepatic impairment classified as Child-Pugh score B. Observed data (circles) presented as the mean concentration time profiles with standard deviation of participants enrolled in the study by Regårdh, Jordö (24). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>
@@ -594,7 +594,7 @@ Simulated population HI-PBPK models of intravenous midazolam administered to pat
 
 Similarly, a population HI-PBPK model was developed and evaluated against observed data from the pharmacokinetic study conducted by Pentikäinen, Välisalmi (32). Those with cirrhosis within this study were not prognosticated using the Child-Pugh classification criteria. As a result, estimations were made based on the report clinical characteristics (i.e., total bilirubin, albumin and presence/absence of ascites). Patients within this study were likely classified as Child-Pugh B or C using the aforementioned clinical characteristics alone. As a result, population HI-PBPK simulations of midazolam were conducted for both Child-Pugh B and Child-Pugh C. Additionally, predicted AUC8 and clearance (mL/min/kg) were compared against the observed values from patients within the study. Study participants demographics used for creation of the population HI-PBPK simulations may be found in [Table 17](#table_17). 
 
-**Table 17.HI population demographics for midazolam IV administration** <a id="table_17">
+**Table 17. HI population demographics for midazolam IV administration** <a id="table_17">
 
 | Study | Dose and administration | Cohort (sample size) | Age (years) | Weight (kg)
 |--|--|--|--|--|
@@ -925,32 +925,6 @@ b: Theophylline clearance presented as range
 c: Observed half-life presented as mean ± standard deviation
 
 
-<a id="figure-3-17"></a>
-
-![](images/003_section_undefined-section-3/019_section_undefined-section-19/021_section_Theophylline_HI/17_time_profile_plot_Theophylline_Froomes1981_CPB_Population.png)
-
-
-
-**Figure 3-17: Time Profile Analysis**
-
-
-<br>
-<br>
-
-
-<a id="figure-3-18"></a>
-
-![](images/003_section_undefined-section-3/019_section_undefined-section-19/021_section_Theophylline_HI/18_time_profile_plot_Theophylline_Froomes1981_CPC_Population.png)
-
-
-
-**Figure 3-18: Time Profile Analysis**
-
-
-<br>
-<br>
-
-
 
 
 
@@ -1024,26 +998,26 @@ Drug specific parameters were fixed from the healthy lidocaine PBPK model. Physi
 A visual representation of the HI-PBPK lidocaine simulations for Child-Pugh A and C may be found in Figure 3.19 and Figure 3.20, respectively. 
 
 
-<a id="figure-3-19"></a>
+<a id="figure-3-17"></a>
 
-![](images/003_section_undefined-section-3/022_section_undefined-section-22/024_section_Lidocaine_HI/19_time_profile_plot_Lidocaine_Orlando2003_CPA_Population.png)
+![](images/003_section_undefined-section-3/022_section_undefined-section-22/024_section_Lidocaine_HI/17_time_profile_plot_Lidocaine_Orlando2003_CPA_Population.png)
 
 
 
-**Figure 3-19: Orlando 2003, Lidocaine IV 1 mg/kg: Simulation of the pharmacokinetics of lidocaine after a single intravenous dose of 1 mg/kg in patients with hepatic impairment classified as Child-Pugh score A. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Orlando, Piccoli (50). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
+**Figure 3-17: Orlando 2003, Lidocaine IV 1 mg/kg: Simulation of the pharmacokinetics of lidocaine after a single intravenous dose of 1 mg/kg in patients with hepatic impairment classified as Child-Pugh score A. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Orlando, Piccoli (50). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>
 <br>
 
 
-<a id="figure-3-20"></a>
+<a id="figure-3-18"></a>
 
-![](images/003_section_undefined-section-3/022_section_undefined-section-22/024_section_Lidocaine_HI/20_time_profile_plot_Lidocaine_Orlando2003_CPC_Population.png)
+![](images/003_section_undefined-section-3/022_section_undefined-section-22/024_section_Lidocaine_HI/18_time_profile_plot_Lidocaine_Orlando2003_CPC_Population.png)
 
 
 
-**Figure 3-20: Orlando 2003, Lidocaine IV 1 mg/kg: Simulation of the pharmacokinetics of lidocaine after a single intravenous dose of 1 mg/kg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Orlando, Piccoli (50). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
+**Figure 3-18: Orlando 2003, Lidocaine IV 1 mg/kg: Simulation of the pharmacokinetics of lidocaine after a single intravenous dose of 1 mg/kg in patients with hepatic impairment classified as Child-Pugh score C. Observed data (circles) presented as the mean concentration time profiles with standard deviations of participants enrolled in the study by Orlando, Piccoli (50). The solid line represents the arithmetic mean and the shaded region represents the standard deviation of the hepatic impairment population.**
 
 
 <br>

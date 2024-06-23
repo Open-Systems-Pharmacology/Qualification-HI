@@ -124,16 +124,6 @@
             "Project": "Sildenafil",
             "Simulation": "Muirhead2002_CPB_Population",
             "SectionReference": "Sildenafil_HI"
-         },
-         {
-            "Project": "Theophylline",
-            "Simulation": "Froomes1981_CPB_Population",
-            "SectionReference": "Theophylline_HI"
-         },
-         {
-            "Project": "Theophylline",
-            "Simulation": "Froomes1981_CPC_Population",
-            "SectionReference": "Theophylline_HI"
          }
       ]
    },

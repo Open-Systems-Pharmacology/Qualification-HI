@@ -26,7 +26,7 @@ Simulated population HI-PBPK models of intravenous midazolam administered to pat
 
 Similarly, a population HI-PBPK model was developed and evaluated against observed data from the pharmacokinetic study conducted by Pentikäinen, Välisalmi (32). Those with cirrhosis within this study were not prognosticated using the Child-Pugh classification criteria. As a result, estimations were made based on the report clinical characteristics (i.e., total bilirubin, albumin and presence/absence of ascites). Patients within this study were likely classified as Child-Pugh B or C using the aforementioned clinical characteristics alone. As a result, population HI-PBPK simulations of midazolam were conducted for both Child-Pugh B and Child-Pugh C. Additionally, predicted AUC∞ and clearance (mL/min/kg) were compared against the observed values from patients within the study. Study participants demographics used for creation of the population HI-PBPK simulations may be found in [Table 17](#table_17). 
 
-**Table 17.HI population demographics for midazolam IV administration** <a id="table_17">
+**Table 17. HI population demographics for midazolam IV administration** <a id="table_17">
 
 | Study | Dose and administration | Cohort (sample size) | Age (years) | Weight (kg)
 |--|--|--|--|--|
