@@ -253,12 +253,12 @@
                "Sections": [
                   {
                      "Reference": "Lidocaine_Healthy",
-                     "Title": "Lidocaine in a Healthy Population",
+                     "Title": "Lidocaine in a Healthy Population - IV",
                      "Content": "Content/Lidocaine_healthy.md"
                   },
                   {
                      "Reference": "Lidocaine_HI",
-                     "Title": "Lidocaine in a HI Population",
+                     "Title": "Lidocaine in a HI Population - IV",
                      "Content": "Content/Lidocaine_HI.md"
                   }
                ]
