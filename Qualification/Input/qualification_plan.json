@@ -157,12 +157,12 @@
                "Sections": [
                   {
                      "Reference": "Alfentanil_Healthy",
-                     "Title": "Alfentanil in a Healthy Population",
+                     "Title": "Alfentanil in a Healthy Population - IV",
                      "Content": "Content/Alfentanil_healthy.md"
                   },
                   {
                      "Reference": "Alfentanil_HI",
-                     "Title": "Alfentanil in a HI Population",
+                     "Title": "Alfentanil in a HI Population - IV",
                      "Content": "Content/Alfentanil_HI.md"
                   }
                ]

@@ -3,6 +3,7 @@ re_output*
 .RHistory
 .RData
 
+~$*.docx
 ~$*.doc
 
 
