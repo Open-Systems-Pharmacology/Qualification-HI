@@ -157,12 +157,12 @@
                "Sections": [
                   {
                      "Reference": "Alfentanil_Healthy",
-                     "Title": "Alfentanil in a Healthy Population",
+                     "Title": "Alfentanil in a Healthy Population - IV",
                      "Content": "Content/Alfentanil_healthy.md"
                   },
                   {
                      "Reference": "Alfentanil_HI",
-                     "Title": "Alfentanil in a HI Population",
+                     "Title": "Alfentanil in a HI Population - IV",
                      "Content": "Content/Alfentanil_HI.md"
                   }
                ]
@@ -173,12 +173,12 @@
                "Sections": [
                   {
                      "Reference": "Levetiracetam_Healthy",
-                     "Title": "Levetiracetam in a Healthy Population",
+                     "Title": "Levetiracetam in a Healthy Population - Oral",
                      "Content": "Content/Levetiracetam_healthy.md"
                   },
                   {
                      "Reference": "Levetiracetam_HI",
-                     "Title": "Levetiracetam in a HI Population",
+                     "Title": "Levetiracetam in a HI Population - Oral",
                      "Content": "Content/Levetiracetam_HI.md"
                   }
                ]
@@ -205,7 +205,7 @@
                "Sections": [
                   {
                      "Reference": "Midazolam_Healthy",
-                     "Title": "Midazolam in a Healthy Population",
+                     "Title": "Midazolam in a Healthy Population – IV/PO",
                      "Content": "Content/Midazolam_healthy.md"
                   },
                   {
@@ -221,12 +221,12 @@
                "Sections": [
                   {
                      "Reference": "Sildenafil_Healthy",
-                     "Title": "Sildenafil in a Healthy Population",
+                     "Title": "Sildenafil in a Healthy Population - PO",
                      "Content": "Content/Sildenafil_healthy.md"
                   },
                   {
                      "Reference": "Sildenafil_HI",
-                     "Title": "Sildenafil in a HI Population",
+                     "Title": "Sildenafil in a HI Population - PO",
                      "Content": "Content/Sildenafil_HI.md"
                   }
                ]
@@ -237,12 +237,12 @@
                "Sections": [
                   {
                      "Reference": "Theophylline_Healthy",
-                     "Title": "Theophylline in a Healthy Population",
+                     "Title": "Theophylline in a Healthy Population - IV",
                      "Content": "Content/Theophylline_healthy.md"
                   },
                   {
                      "Reference": "Theophylline_HI",
-                     "Title": "Theophylline in a HI Population",
+                     "Title": "Theophylline in a HI Population - IV",
                      "Content": "Content/Theophylline_HI.md"
                   }
                ]
@@ -253,12 +253,12 @@
                "Sections": [
                   {
                      "Reference": "Lidocaine_Healthy",
-                     "Title": "Lidocaine in a Healthy Population",
+                     "Title": "Lidocaine in a Healthy Population - IV",
                      "Content": "Content/Lidocaine_healthy.md"
                   },
                   {
                      "Reference": "Lidocaine_HI",
-                     "Title": "Lidocaine in a HI Population",
+                     "Title": "Lidocaine in a HI Population - IV",
                      "Content": "Content/Lidocaine_HI.md"
                   }
                ]

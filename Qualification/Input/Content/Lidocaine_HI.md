@@ -1,13 +1,10 @@
-#### Oral model
+Drug specific parameters were fixed from the healthy lidocaine PBPK model. Physiological alterations within hepatic impairment were applied to the model and simulations were conducted for virtual patients with classified as Child-Pugh A and Child-Pugh C.  Virtual populations with liver disease were created according to the patient demographics of study participants within the study conducted by Orlando, Piccoli (50). [Table 30](#table_30). provides the patient demographics of participants incorporated within the study by Orlando, Piccoli (50) used to develop the virtual hepatic impairment populations.
 
-With the drug-specific parameters fixed, the healthy PBPK model was translated to a HI-PBPK model. Stages of HI used in the simulations were defined by the Child-Pugh score. A population with Child-Pugh A, B, and C was created according to the patient demographics of the population enrolled by Brockmöller, Thomsen (29) (**Table 2**). The Child-Pugh scores were defined in this study.
+**Table 30. HI population demographics for lidocaine IV administration** <a id="table_30">
 
-**Table 2. HI population demographics for levetiracetam oral administration**
+| Child-Pugh| Dose and Administration| Cohort (n)| Age (Years)| Weight (kg)| Height (cm)| BMI (kg/m2)
+|--|--|--|--|--|--|--|
+| A | 1 mg/kg IV administered over 1 minute | 10/20 | 55±7 | 82±10 | 172±6 | 27±2.3| 
+| C | 1 mg/kg IV administered over 1 minute | 10/20 | 54±9 | 79±8 | 170±7 | 28±2.7| 
 
-| **Study** | **Dose and administration** | **Cohort** | **N** | **Age (years)** | **Weight (kg)** |
-|--|--|--|--|--|--|
-| Brockmöller, Thomsen (29) | 1000 mg single dose PO | European male patients Child-Pugh A | 5 | 50 ± 8 | 89 ± 16 |
-| Brockmöller, Thomsen (29) | 1000 mg single dose PO | European male patients Child-Pugh B | 6 | 53 ± 5 | 87 ± 12 |
-| Brockmöller, Thomsen (29) | 1000 mg single dose PO | European male patients Child-Pugh C | 5 | 51 ± 6 | 74 ± 3 |
-
-Simulated PK of levetiracetam administered as a 1000 mg oral single dose in patients with Child-Pugh A, B, and C are presented in **Figure 1**, **Figure 2**, and **Figure 3**, respectively. These population HI-PBPK simulations were evaluated against observed plasma concentration-time profiles from Brockmöller, Thomsen (29).
+A visual representation of the HI-PBPK lidocaine simulations for Child-Pugh A and C may be found in Figure 3.19 and Figure 3.20, respectively. 

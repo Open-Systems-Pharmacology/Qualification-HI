@@ -1,10 +1,8 @@
-#### IV/PO model
+Levetiracetam physicochemical properties and ADME parameters were incorporated from the model developed by Sinha, Karatza (14). [Table 7](#table_7) presents the drug specific parameters of levetiracetam and the values used within the healthy adult model.
 
-Levetiracetam physiochemical properties and ADME parameters were incorporated from the model developed by Sinha, Karatza (25). **Table 1** presents the drug specific parameters of levetiracetam and the values used in the healthy adult IV model.
+The healthy PBPK model development was based on two single dose IV PK studies (1000 and 2000 mg) and two single dose oral PK studies (500 and 1000 mg) described in Sinha, Karatza (14). 
 
-The healthy PBPK model development was based on single dose IV and oral PK studies described in Sinha, Karatza (25). These doses consisted of 500 mg, 1000 mg, and 2000 mg.
-
-**Table 1. Physicochemical properties and ADME of caffeine for the final IV/PO model**
+**Table 7. Physicochemical properties and ADME of caffeine for the final IV/PO model** <a id="table_7">
 
 | **Physicochemical properties**    |                                      |
 |--|--|
@@ -23,4 +21,4 @@ The healthy PBPK model development was based on single dose IV and oral PK studi
 | Specific intestinal permeability (transcellular) | 1.84E-3 cm/min |
 | **Oral absorption parameters**             |                             |
 | Formulation: Tablet T<sub>50%</sub>, T<sub>90%</sub>, T<sub>100%</sub> | 5 min, 10 min, 15 min |
-T<sub>50%</sub>, T<sub>90%</sub>, T<sub>100%</sub>: Time to dissolve 50%, 90%, and 100% tablet strength, respectively (25).
+T<sub>50%</sub>, T<sub>90%</sub>, T<sub>100%</sub>: Time to dissolve 50%, 90%, and 100% tablet strength (14).

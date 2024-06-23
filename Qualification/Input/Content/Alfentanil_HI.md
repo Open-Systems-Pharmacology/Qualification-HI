@@ -1,12 +1,15 @@
-#### IV model
+Levetiracetam is an antiepileptic used for the treatment of patients with partial seizures, with or without secondary generalization (11, 12). The mechanism of antiseizure activity has not been fully elucidated, however animal models have shown that levetiracetam binds to synaptic vesicle proteins SV2A modulating neurotransmitter release (13). 
 
-With the drug-specific parameters fixed, the healthy PBPK model was translated to a HI-PBPK model. Stages of HI used in the simulations were defined by the Child-Pugh score. A population with Child-Pugh B and C was created according to the patient demographics of the population enrolled by Ferrier, Marty (10) (**Table 2**). The Child-Pugh scores were not defined in Ferrier, Marty (10), and thus reported information such as plasma albumin concentrations and total bilirubin were used to classify.
+In this section, the general ADME (Table 6.), the healthy PBPK model source, and translation to a population with HI for levetiracetam are described.
 
-**Table 2. HI population demographics for alfentanil IV administration**
+[Table 5](#table_5).
 
-| **Study** | **Dose and administration** | **Cohort** | **N** | **Age (years)** | **Weight (kg)** |
-|--|--|--|--|--|--|
-| Ferrier, Marty (10) | 0.05 mg/kg IV bolus | HI population: European females (45%) and males with estimated Child-Pugh B and C | 11 | 56 [range: 39-69] | 60 [range: 43-73] |
-| Ferrier, Marty (10) | 0.05 mg/kg IV bolus | Control population: European | 10 | 45 [range: 25-66] | 59 [range: 34-84] |
+**Table 5. HI population demographics for alfentanil IV administration** <a id="table_5">
 
-Simulated PK of alfentanil after a single IV bolus dose of 0.05 mg/kg in patients with Child-Pugh B and C are presented in **Figure 1** and **Figure 2**, respectively. Simulations of the average healthy control are included for comparison.
+| **Study** | **Dose and administration** | **Cohort (sample size)** | **Age (years)** | **Weight (kg)** |
+|--|--|--|--|--|
+| Ferrier, Marty (10) | 0.05 mg/kg IV bolus	| HI population: European with estimated Child-Pugh B and C based on reported information (plasma albumin concentrations and total bilirubin)   (45% female, n = 11) | 	56 [39-69]	| 60 [43-73] | 
+|Ferrier, Marty (10) | 0.05 mg/kg IV bolus | Control population: European (n = 10)	| 45 [24-66] | 59 [34-84] |
+
+
+Simulated pharmacokinetics of alfentanil after a single IV bolus dose of 0.05 mg/kg in Child-Pugh B and Child-Pugh C are presented in Figure 3.1 and 3.2, respectively. Simulations of the average healthy control are included in each figure for visualization. 
